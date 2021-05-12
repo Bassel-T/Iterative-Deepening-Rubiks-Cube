@@ -1,0 +1,13 @@
+g++ -std=c++11 AStar.cpp Node.h
+./a.out yywywwywwroobbgrrobbgoorbggroobggrgogrbrrogbbwyywywwyy
+10000 (6.25, 4) : bybowrgwgogoobgrbrybwwowwgyogoogrrbrwrywryybwbybryogyg
+20000 (6.75, 4) : yygywrgrgrowbbgrroogowoobgrybrggoybbwrbwroobbwygwywwyy
+30000 (7.25, 4) : wrrywogyobbygbworyrogbogbobwwwygbwbrggrorwbryogowyrgyy
+40000 (7.875, 4) : wrrowygbrgbryboyyywrgwogrobyobygwwgywwobrbbrgbgorywogo
+NONE
+B2
+Y1
+G2
+R2
+G2
+W1
